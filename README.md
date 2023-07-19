@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tamilta49168421" target="blank"><img src="https://img.shields.io/twitter/follow/tamilta49168421?logo=twitter&style=for-the-badge" alt="tamilta49168421" /></a> </p>
 
-- 🔭 I’m currently working on **Loan Management syatem**
+- 🔭 I’m currently working on **Loan Management system**
 
 - 🌱 I’m currently learning **Laravel(livewire)**
 
